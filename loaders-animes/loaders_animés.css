@@ -110,7 +110,7 @@ body{
 .loader-circles{
     border-radius:50px;
     border:2px solid transparent;
-    border-top-color:#fff;
+    border-top-color:#e67e22;
      
      animation:spin 1s  0s infinite;
     -webkit-animation:spin 1s  0s infinite;
@@ -124,7 +124,7 @@ body{
     right:5px;
     border-radius:50px;
     border:2px solid transparent;
-    border-top-color:#fff;
+    border-top-color:#f1c40f;
      
      opacity:0.8;
     -webkit-animation:spin 5s   infinite;
@@ -142,7 +142,7 @@ body{
     right:12px;
     border-radius:50px;
     border:2px solid transparent;
-    border-top-color:#fff;
+    border-top-color:#27ae60;
      
      opacity:0.5;
     -webkit-animation:spin 10s  0s infinite;
